@@ -5,8 +5,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import com.bj58.lightrpc.RpcProxy;
-import com.bj58.lightrpc.contract.IHelloService;
+import com.cjam.lightrpc.RpcProxy;
+import com.cjam.lightrpc.contract.IHelloService;
 
 /**
  * Created by jam on 2017/10/19.
